@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "flower")(type "KiCad")(uri "C:/Desktop/flower")(options "")(descr ""))
+  (lib (name "Project-Robotic")(type "KiCad")(uri "C:/Desktop/Project-Robotic")(options "")(descr ""))
+  (lib (name "CADT logo")(type "KiCad")(uri "C:/Desktop/CADT logo")(options "")(descr ""))
+)
